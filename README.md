@@ -99,11 +99,11 @@ A sleek movie discovery platform built with **React** for Web and **React Native
 ## 📂 Folder Structure
 
     .
-    ├── desktop/                      # React app (web)
+    ├── React/                      # React app (web)
     │   ├── public/
     │   ├── src/
     │   └── .env.local                # ← add this file
-    ├── mobile/                       # React Native app
+    ├── ReactNative/                       # React Native app
     │   ├── app/
     │   ├── assets/
     │   ├── components/
