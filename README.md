@@ -24,6 +24,7 @@ A sleek movie discovery platform built with **React** for Web and **React Native
 
 ![Main Desktop UI](./preview/main-desktop.png)
 
+
 ![Movie Detail View - Desktop](./preview/movie-desktop.png)
 
   
@@ -31,6 +32,7 @@ A sleek movie discovery platform built with **React** for Web and **React Native
 ### 📱 Mobile Version
 
 ![Main Mobile UI](./preview/main-mobile.png)
+
 
 ![Movie Detail View - Mobile](./preview/movie-mobile.png)
 
@@ -96,21 +98,21 @@ A sleek movie discovery platform built with **React** for Web and **React Native
 
 ## 📂 Folder Structure
 
-.
-├── desktop/                      # React app (web)
-│   ├── public/
-│   ├── src/
-│   └── .env.local                # ← add this file
-├── mobile/                       # React Native app
-│   ├── app/
-│   ├── assets/
-│   ├── components/
-│   ├── constants/
-│   ├── interfaces/
-│   ├── services/
-│   ├── types/
-│   └── .env                      # ← add this file
-└── README.md
+    .
+    ├── desktop/                      # React app (web)
+    │   ├── public/
+    │   ├── src/
+    │   └── .env.local                # ← add this file
+    ├── mobile/                       # React Native app
+    │   ├── app/
+    │   ├── assets/
+    │   ├── components/
+    │   ├── constants/
+    │   ├── interfaces/
+    │   ├── services/
+    │   ├── types/
+    │   └── .env                      # ← add this file
+    └── README.md
 
 ---
 
